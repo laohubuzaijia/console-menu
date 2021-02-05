@@ -31,7 +31,7 @@ The following options are supported:
  * `helpMessage` (string): Message text to show under the menu.
 
 The return value is a `Promise` that resolves to the chosen item object, or to `null` if the menu was cancelled by pressing Esc or Ctrl-C.
-
+#1
 ## Example
 ```JavaScript
 var menu = require('console-menu');
